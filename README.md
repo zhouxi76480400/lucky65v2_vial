@@ -4,4 +4,4 @@
 
 2. Place these files into the keyboard directory of your QMK installation (ensure you're on the vial branch).
 
-3. From the QMK root directory, run make `sh weikav/lucky65v2:vial`.
+3. From the QMK root directory, run `make weikav/lucky65v2:vial`.
